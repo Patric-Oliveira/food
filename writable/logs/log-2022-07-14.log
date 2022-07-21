@@ -1,0 +1,7 @@
+ERROR - 2022-07-14 12:52:27 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+ERROR - 2022-07-14 18:23:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BOOLEAM NOT NULL DEFAULT 0,
+	`active` BOOLEAM NOT NULL DEFAULT 0,
+	`password_has' at line 7
+ERROR - 2022-07-14 18:25:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BOOLEAM NOT NULL DEFAULT 0,
+	`active` BOOLEAM NOT NULL DEFAULT 0,
+	`password_has' at line 7
