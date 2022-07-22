@@ -1,0 +1,175 @@
+CRITICAL - 2022-07-21 11:04:21 --> Trying to get property 'name' of non-object
+in APPPATH\Views\Admin\Users\index.php on line 43.
+ 1 APPPATH\Views\Admin\Users\index.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'name\' of non-object', 'APPPATH\\Views\\Admin\\Users\\index.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:05:39 --> Trying to get property 'name' of non-object
+in APPPATH\Views\Admin\Users\index.php on line 43.
+ 1 APPPATH\Views\Admin\Users\index.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'name\' of non-object', 'APPPATH\\Views\\Admin\\Users\\index.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:15:03 --> Array to string conversion
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:15:18 --> Array to string conversion
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:15:47 --> Array to string conversion
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:15:50 --> Array to string conversion
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:15:58 --> Array to string conversion
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:16:25 --> Trying to get property 'name' of non-object
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'name\' of non-object', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:25:32 --> Undefined variable: user
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: user', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:25:53 --> Trying to get property 'name' of non-object
+in APPPATH\Views\Admin\Users\index.php on line 25.
+ 1 APPPATH\Views\Admin\Users\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'name\' of non-object', 'APPPATH\\Views\\Admin\\Users\\index.php', 25, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:30:12 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+in APPPATH\Models\UserModel.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\UserModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 4 APPPATH\Controllers\Admin\Users.php(14): spl_autoload_call('App\\Models\\UserModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Admin\Users->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-21 11:34:14 --> Undefined variable: usersa
+in APPPATH\Views\Admin\Users\index.php on line 41.
+ 1 APPPATH\Views\Admin\Users\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usersa', 'APPPATH\\Views\\Admin\\Users\\index.php', 41, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\Users\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Admin/Users/index', [], true)
+ 5 APPPATH\Controllers\Admin\Users.php(27): view('Admin/Users/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-21 14:00:56 --> Table 'ads.users' doesn't exist
+CRITICAL - 2022-07-21 14:00:56 --> Table 'ads.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL', [], false)
+ 5 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Users.php(23): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-21 14:01:09 --> Table 'ads.users' doesn't exist
+CRITICAL - 2022-07-21 14:01:09 --> Table 'ads.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `users`
+WHERE `users`.`deleted_at` IS NULL', [], false)
+ 5 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Users.php(23): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->index()
+ 9 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+10 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

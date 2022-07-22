@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -17,9 +16,8 @@
     <link rel="stylesheet" href="<?php echo site_url('admin/'); ?>css/style.css">
     <!-- endinject -->
     <link rel="shortcut icon" href="<?php echo site_url('admin/'); ?>images/favicon.png" />
-
+    <!-- RenderSection Styles --> 
     <?php echo $this->renderSection('styles'); ?>
-
 </head>
 <body>
     <div class="container-scroller">
@@ -48,8 +46,8 @@
                     </li>
                 </ul>
                 <ul class="navbar-nav navbar-nav-right">
-                    <li class="nav-item dropdown me-1">
-                        <a class="nav-link count-indicator dropdown-toggle d-flex justify-content-center align-items-center" id="messageDropdown" href="#" data-bs-toggle="dropdown">
+                    <li class="nav-item dropdown mr-1">
+                        <a class="nav-link count-indicator dropdown-toggle d-flex justify-content-center align-items-center" id="messageDropdown" href="#" data-toggle="dropdown">
                             <i class="mdi mdi-message-text mx-0"></i>
                             <span class="count"></span>
                         </a>
@@ -93,8 +91,8 @@
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item dropdown me-4">
-                        <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-bs-toggle="dropdown">
+                    <li class="nav-item dropdown mr-4">
+                        <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
                             <i class="mdi mdi-bell mx-0"></i>
                             <span class="count"></span>
                         </a>
@@ -142,7 +140,7 @@
                         </div>
                     </li>
                     <li class="nav-item nav-profile dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" id="profileDropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
                             <img src="images/faces/face5.jpg" alt="profile" />
                             <span class="nav-profile-name">Louis Barnett</span>
                         </a>
@@ -175,7 +173,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                        <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
                             <i class="mdi mdi-circle-outline menu-icon"></i>
                             <span class="menu-title">UI Elements</span>
                             <i class="menu-arrow"></i>
@@ -212,7 +210,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
+                        <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
                             <i class="mdi mdi-account menu-icon"></i>
                             <span class="menu-title">User Pages</span>
                             <i class="menu-arrow"></i>
@@ -238,16 +236,15 @@
             <!-- partial -->
             <div class="main-panel">
                 <div class="content-wrapper">
-
+                <!-- RenderSection Content -->    
                 <?php echo $this->renderSection('content'); ?>
-
                 </div>
                 <!-- content-wrapper ends -->
                 <!-- partial:partials/_footer.html -->
                 <footer class="footer">
                     <div class="d-sm-flex justify-content-center justify-content-sm-between">
-                        <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © <a href="https://www.bootstrapdash.com/" target="_blank">bootstrapdash.com </a>2021</span>
-                        <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Only the best <a href="https://www.bootstrapdash.com/" target="_blank"> Bootstrap dashboard </a> templates</span>
+                        <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © bootstrapdash.com 2020</span>
+                        <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Free <a href="https://www.bootstrapdash.com/" target="_blank">Bootstrap dashboard template</a> from Bootstrapdash.com</span>
                     </div>
                 </footer>
                 <!-- partial -->
@@ -277,9 +274,7 @@
     <script src="<?php echo site_url('admin/'); ?>js/dataTables.bootstrap4.js"></script>
     <!-- End custom js for this page-->
     <script src="<?php echo site_url('admin/'); ?>js/jquery.cookie.js" type="text/javascript"></script>
-
+    <!-- RenderSection Scripts --> 
     <?php echo $this->renderSection('scripts'); ?>
-
 </body>
-
 </html>
