@@ -21,9 +21,7 @@ class Users extends BaseController
 
             'title' => 'Listando os usuários',
             'users' => $this->userModel->findAll(),
-
         ];
-
         return view('Admin/Users/index', $data);
 
     }
@@ -59,8 +57,13 @@ class Users extends BaseController
 
         $user = $this->searchUserOr404($id);
 
-        dd($user);
+        $data = [
 
+            'title' => "Detalhes do usuário - $user->name",
+            'user' => $user,
+        ];
+        return view('Admin/Users/show', $data);
+        
     }
 
     /**
