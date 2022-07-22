@@ -39,4 +39,25 @@ class UserModel extends Model
     protected $afterFind      = [];
     protected $beforeDelete   = [];
     protected $afterDelete    = [];
+
+    /**
+     * @uso  Controller usuarios no métado seach com o autocomplete
+     * @param  string $term
+     * @return array users
+     */
+    public function search($term) 
+    {
+        
+        if ($term === null) {
+            
+            return [];
+
+        }
+
+        return $this->select('id, name')
+                    ->like('name', $term)
+                    ->get()
+                    ->getResult();
+
+    }
 }

@@ -30,7 +30,7 @@ echo $this->extend('Admin/layout/main'); ?>
       <div class="card-body">
         <h4 class="card-title"><?php echo $title ?></h4>
         <div class="ui-widget">
-          <input id="query" name="query" class="form-control bg-light mb-5">
+          <input id="query" name="query" placeholder="" class="form-control bg-light mb-5">
         </div>
         <div class="table-responsive">
           <table class="table table-hover">
@@ -45,9 +45,11 @@ echo $this->extend('Admin/layout/main'); ?>
             <tbody>
               <?php foreach ($users as $user) : ?>
                 <tr>
-                  <td><?php echo $user->name ?></td>
-                  <td><?php echo $user->email ?></td>
-                  <td><?php echo $user->cpf ?></td>
+                  <td>
+                    <a href="<?php echo site_url("admin/users/show/$user->id"); ?>"><?php echo $user->name; ?></a>
+                  </td>
+                  <td><?php echo $user->email; ?></td>
+                  <td><?php echo $user->cpf; ?></td>
                   <td><?php echo ($user->active ? '<label class="badge badge-primary">Sim</label>' : '<label class="badge badge-danger">Não</label>') ?></td>
                 </tr>
               <?php endforeach; ?>
