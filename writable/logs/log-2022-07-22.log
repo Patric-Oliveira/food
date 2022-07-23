@@ -874,3 +874,1725 @@ in APPPATH\Controllers\Admin\Users.php on line 74.
  3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
  4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:34:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:05 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:05 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:05 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:05 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:05 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:37:19 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:39:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:14 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:14 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:15 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:15 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:15 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:15 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:43:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:06 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:23 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:23 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:23 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:23 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:23 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:44:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 20:50:48 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:42 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:43 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:43 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:43 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:43 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:02:43 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:04:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:05:59 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:06:00 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:06:00 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:06:00 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:06:00 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:06:00 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:35 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:57 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:08:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:09:07 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:10:02 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:12:52 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:15 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:16 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:16 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:16 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:16 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:13:16 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:14:54 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:15:17 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:16:26 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:03 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:19:55 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:21:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:04 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:22:47 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:23:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:11 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:24:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:26:41 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:27:01 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:31:40 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:22 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:58 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:38:59 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:39:44 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face5.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face4.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face2.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'faces', 'face3.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-22 21:42:32 --> Argument 1 passed to App\Controllers\Admin\Users::searchUserOr404() must be of the type int or null, string given, called in C:\laragon\www\food\app\Controllers\Admin\Users.php on line 58
+in APPPATH\Controllers\Admin\Users.php on line 74.
+ 1 APPPATH\Controllers\Admin\Users.php(58): App\Controllers\Admin\Users->searchUserOr404('images')
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Admin\Users->show('images', 'logo-mini.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

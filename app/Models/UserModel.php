@@ -11,7 +11,7 @@ class UserModel extends Model
     protected $primaryKey       = 'id';
     protected $useAutoIncrement = true;
     protected $insertID         = 0;
-    protected $returnType       = 'object';
+    protected $returnType       = 'App\Entities\User';
     protected $useSoftDeletes   = true;
     protected $protectFields    = true;
     protected $allowedFields    = ['name', 'email', 'cpf', 'phone'];
