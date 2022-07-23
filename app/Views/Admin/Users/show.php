@@ -54,9 +54,9 @@ echo $this->extend('Admin/layout/main'); ?>
           <?php echo $user->updated_at->humanize(); ?>
         </p>
         <div class="mt-4">
-          <a href="<?php echo site_url("admin/users/edit/$user->id"); ?>" class="btn btn-dark btn-sm mr-2"><i class="mdi mdi-pencil btn-icon-prepend"></i>Editar</a>
-          <a href="<?php echo site_url("admin/users/delete/$user->id"); ?>" class="btn btn-danger btn-sm mr-2"><i class="mdi mdi-trash-can btn-icon-prepend"></i>Excluir</a>
-          <a href="<?php echo site_url("admin/users"); ?>" class="btn btn-light text-dark btn-sm"><i class="mdi mdi-arrow-left btn-icon-prepend"></i>Voltar</a>
+          <a href="<?php echo site_url("admin/users/edit/$user->id"); ?>" class="btn btn-dark btn-sm mr-2"><i class="mdi mdi-pencil btn-icon-prepend"></i> Editar</a>
+          <a href="<?php echo site_url("admin/users/delete/$user->id"); ?>" class="btn btn-danger btn-sm mr-2"><i class="mdi mdi-trash-can btn-icon-prepend"></i> Excluir</a>
+          <a href="<?php echo site_url("admin/users"); ?>" class="btn btn-light text-dark btn-sm"><i class="mdi mdi-arrow-left btn-icon-prepend"></i> Voltar</a>
         </div>
       </div>
     </div>

@@ -66,6 +66,20 @@ class Users extends BaseController
         
     }
 
+    public function edit($id = null) 
+    {
+
+        $user = $this->searchUserOr404($id);
+
+        $data = [
+
+            'title' => "Editar usuário - $user->name",
+            'user' => $user,
+        ];
+        return view('Admin/Users/edit', $data);
+        
+    }
+
     /**
      * 
      * @param int $id
